@@ -8,6 +8,6 @@ This GitHub Project is dedicated for holding all the Public Builds for Project_T
 Global multiplayer hasn't been implemented. But you can still test it by opening the game twice. From there you can click Host Game on one client, then join it from the other client.
 Or you can forward a port on 7777 and then host a game from the main meanu for another friend to join.\
 Come check out the Discord over at: https://discord.gg/RSdTXbq 
-\
+
 
 Have fun!
